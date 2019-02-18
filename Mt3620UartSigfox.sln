@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mt3620UartSigfox", "Mt3620UartSigfox\Mt3620UartSigfox.vcxproj", "{D8174893-C530-40F9-B939-2B7C8A122A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8174893-C530-40F9-B939-2B7C8A122A87}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D8174893-C530-40F9-B939-2B7C8A122A87}.Debug|ARM.Build.0 = Debug|ARM
+		{D8174893-C530-40F9-B939-2B7C8A122A87}.Release|ARM.ActiveCfg = Release|ARM
+		{D8174893-C530-40F9-B939-2B7C8A122A87}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42ACAFC3-E18E-4CD8-9788-A2C146CA35EB}
+	EndGlobalSection
+EndGlobal

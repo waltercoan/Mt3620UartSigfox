@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "Mt3620UartSigfox",
+  "ComponentId" : "59c9732a-bf99-4471-b2a8-0bdab331eeea",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [ 15, 16, 17, 12 ],
+    "Uart": [ "ISU0" ],
+    "I2cMaster": [],
+    "SpiMaster": [],
+    "WifiConfig": false,
+    "NetworkConfig": false,
+    "SystemTime": false
+  }
+}
